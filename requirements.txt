@@ -1,0 +1,4 @@
+beautifulsoup4==4.9.3
+requests==2.24.0
+PyGithub==1.52
+pytz==2020.1
